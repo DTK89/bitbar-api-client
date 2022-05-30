@@ -1,0 +1,157 @@
+{
+    "id": null,
+    "selfURI": null,
+    "appCrawlerRun": false,
+    "appiumBrokerAddress": null,
+    "applicationPassword": null,
+    "applicationUsername": null,
+    "availableDeviceGroups": null,
+    "availableDevices": null,
+    "availableFrameworks": null,
+    "availableOsTypes": [
+      "IOS",
+      "ANDROID"
+    ],
+    "clientSideTestConfig": null,
+    "computedDevices": [
+      80978,
+      80979,
+      100774,
+      108387
+    ],
+    "creditsPrice": null,
+    "deviceGroupId": 14,
+    "deviceIds": null,
+    "deviceLanguageCode": "en_US",
+    "deviceNamePattern": null,
+    "disableResigning": false,
+    "files": [
+      {
+        "id": 140177010,
+        "selfURI": null,
+        "action": "INSTALL",
+        "availableActions": [
+          "INSTALL",
+          "COPY_TO_DEVICE",
+          "RUN_TEST"
+        ],
+        "file": {
+          "id": 140177010,
+          "selfURI": null,
+          "createTime": 1617269582000,
+          "fileProperties": [
+            {
+              "id": 6429251,
+              "selfURI": null,
+              "key": "min_sdk",
+              "value": "14"
+            },
+            {
+              "id": 6429253,
+              "selfURI": null,
+              "key": "main_activity",
+              "value": "com.testdroid.sample.android.MM_MainMenu"
+            },
+            {
+              "id": 6429254,
+              "selfURI": null,
+              "key": "package_name",
+              "value": "com.testdroid.sample.android"
+            },
+            {
+              "id": 6429255,
+              "selfURI": null,
+              "key": "code_signers",
+              "value": "rO0ABXVyABtbTGphdmEuc2VjdXJpdHkuQ29kZVNpZ25lcjtFiQ96PNx7owIAAHhwAAAAAXNyABhqYXZhLnNlY3VyaXR5LkNvZGVTaWduZXJeovpmyyGarQIAAkwADnNpZ25lckNlcnRQYXRodAAdTGphdmEvc2VjdXJpdHkvY2VydC9DZXJ0UGF0aDtMAAl0aW1lc3RhbXB0ABlMamF2YS9zZWN1cml0eS9UaW1lc3RhbXA7eHBzcgAnamF2YS5zZWN1cml0eS5jZXJ0LkNlcnRQYXRoJENlcnRQYXRoUmVwKdmuTUb8bhMCAAJbAARkYXRhdAACW0JMAAR0eXBldAASTGphdmEvbGFuZy9TdHJpbmc7eHB1cgACW0Ks8xf4BghU4AIAAHhwAAADFDCCAxAwggMMMIIB9KADAgECAgNAfHYwDQYJKoZIhvcNAQELBQAwNzELMAkGA1UEBhMCVVMxEDAOBgNVBAoTB0FuZHJvaWQxFjAUBgNVBAMTDUFuZHJvaWQgRGVidWcwHhcNMTYwMTMxMTg1MTMzWhcNNDYwMTIzMTg1MTMzWjA3MQswCQYDVQQGEwJVUzEQMA4GA1UEChMHQW5kcm9pZDEWMBQGA1UEAxMNQW5kcm9pZCBEZWJ1ZzCCASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEBALRsI2oYUj3podt/9HpOGPBf51TDQ3yyLBGsYmx++BnIayGLmVaA59bLEfBnf87sJue6dcRCPqmpm2uFYelnm+OPMiO3p6m/TgSfT2XxJniom3i8p4ntcwZV9ML0umL+fC67Ek45GuGeRM0VYkAH/6JVeCnPz59O2CKtlCN/ROJcqUUH2cQRlbaLuc6SUblRSIa+AD3mZG3KVZU0/Nb1Ou1Cf63eYe74Z5wssWg1BOvNqJSV/fnkjKpxshBwPpGjGRcv+xrI7pzHyMPGZHu8tmek2257+rfEk4gGj3qyfrg+RaKQzB/DWk4Bs0oQos9L7roMIyYG0TtFDCsqK1yt6bECAwEAAaMhMB8wHQYDVR0OBBYEFLTz9f6cMkNI19JN9GfhsOqzZOvXMA0GCSqGSIb3DQEBCwUAA4IBAQAI3d5GU8hoApY/w27Ps1KAbiH4wtng/7onkbD0E1r/wCG/jKLigGLmZQ/vK+AAGkYAipxixt+escYfMcQ0rlCbJ6ntqiwWFAzeBK39n/oDNXtxPne4jfvSV2NBf0wYmS2dG8YZ5g2dPutvw9ovcr3KuUknTuiKGXrtk9Q1kQzR/lQqXxtaAMdk27du7Uqd9kXYPc0hSPtrA+2D70+oXcRvCtYA+YLpY7G0ZnOSg45VFLeSPS0cSviMt0LaUrVDjWYJlZbE4K1W+rfXNkUjsvU788oAHTyZtp+8ukUR5v/BcPs7eR4T2WAeQff7NuwYrqrNRYjouxFX6eceRJhRTi77dAAFWC41MDlw"
+            },
+            {
+              "id": 6429259,
+              "selfURI": null,
+              "key": "virus_scan_status",
+              "value": "safe"
+            }
+          ],
+          "state": "READY",
+          "name": "testdroid-app-targetAPI29.apk",
+          "size": 4017409,
+          "directUrl": "https://cloud.bitbar.com/cloud/api/v2/me/files/140177010/file",
+          "iconDirectUrl": "https://cloud.bitbar.com/cloud/api/v2/me/files/140177010/icon",
+          "mimetype": "application/vnd.android.package-archive",
+          "direction": "INPUT",
+          "inputType": "APPLICATION",
+          "duplicate": false,
+          "userEmail": null,
+          "userId": null,
+          "shared": true,
+          "ext": "apk"
+        }
+      },
+      {
+        "id": 140177384,
+        "selfURI": null,
+        "action": "RUN_TEST",
+        "availableActions": [
+          "RUN_TEST",
+          "COPY_TO_DEVICE"
+        ],
+        "file": {
+          "id": 140177384,
+          "selfURI": null,
+          "createTime": 1617270121000,
+          "fileProperties": [
+            {
+              "id": 6429380,
+              "selfURI": null,
+              "key": "virus_scan_status",
+              "value": "safe"
+            }
+          ],
+          "state": "READY",
+          "name": "appium-serverside-android-test.zip",
+          "size": 31696,
+          "directUrl": "https://cloud.bitbar.com/cloud/api/v2/me/files/140177384/file",
+          "iconDirectUrl": null,
+          "mimetype": "application/zip",
+          "direction": "INPUT",
+          "inputType": "TEST",
+          "duplicate": false,
+          "userEmail": null,
+          "userId": null,
+          "shared": true,
+          "ext": "zip"
+        }
+      }
+    ],
+    "frameworkId": 541,
+    "hookURL": null,
+    "instrumentationRunner": null,
+    "limitationType": null,
+    "limitationValue": null,
+    "loadedPrevious": false,
+    "maxAutoRetriesCount": null,
+    "maxTestTimeout": {
+      "unit": "SECONDS",
+      "value": 1800
+    },
+    "osType": "ANDROID",
+    "projectId": 207113607,
+    "projectName": null,
+    "resignFiles": false,
+    "runAvailable": true,
+    "scheduler": "PARALLEL",
+    "screenshotDir": null,
+    "status": null,
+    "statusCode": 0,
+    "testRunId": null,
+    "testRunName": "API Client Test Run 1",
+    "testRunNameGrouping": null,
+    "testRunParameters": [],
+    "timeout": 1800,
+    "tunnelSettings": null,
+    "useSamples": false,
+    "usedDeviceGroupId": 14,
+    "usedDeviceGroupName": "Trial Android devices",
+    "videoRecordingEnabled": false,
+    "withAnnotation": null,
+    "withoutAnnotation": null
+  }
